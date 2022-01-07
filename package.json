@@ -1,8 +1,10 @@
 {
   "name": "md-links",
   "version": "0.1.0",
+  "description": "md-links",
+  "author": "Stefanya Pulgar",
+  "main": "index.js",
   "dependencies": {
-    "chalk": "^5.0.0",
     "markdown-it": "^12.2.0",
     "markdown-link-extractor": "^1.3.0",
     "node-fetch": "^2.6.6"
