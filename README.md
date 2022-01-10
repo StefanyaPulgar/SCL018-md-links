@@ -14,12 +14,12 @@ Markdown Links es una librería que extrae y valida los links de los archivos co
 ## 2. Instalacion
 Se necesita de instalación previa de Node.js. En el terminal colocar el siguiente comando: 
 ```yaml
-  npm i md-links-ext
+  npm i steffy-md-links
 ```
 ## 3. Guia de uso
 ![foto1](https://i.imgur.com/bvmfk4A.png)
 
-md-links-ext(path)
+steffy-md-links(path)
 
 Path: ruta al archivo o carpeta
 
